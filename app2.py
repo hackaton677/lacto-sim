@@ -54,7 +54,7 @@ with col_title:
 
 with col_logo:
     # Utilisation du fichier local importé sur JupyterHub (Taille corrigée)
-    st.image(r"C:\Users\chloe\OneDrive\Bureau\hackaton\logo_polytech.png", width=2000)
+    st.image("logo_polytech.png", width=300)
     st.markdown("---")
 
 # ==========================================
